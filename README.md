@@ -82,7 +82,7 @@ pip install -U gradio gdown opencv-python-headless tensorflow tqdm
 
 ## 📸 Sample Output
 
-![Output](sample_outputs/sample-output.png)
+![Output](sample_output/sample-output.png)
 
 ---
 
